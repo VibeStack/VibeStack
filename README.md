@@ -2,7 +2,7 @@
 
 ### 👋 **Hi there, I'm Arsh!**
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=28&pause=800&color=FFD700&center=true&vCenter=true&width=650&lines=🚀+Full+Stack+Developer;✨+Clean+Code+%7C+Smart+Solutions;📚+Always+Learning+New+Things;💡+Building+Impactful+Projects)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=28&pause=700&center=true&vCenter=true&width=700&lines=🚀+Full+Stack+Developer&color=FF0000;✨+Clean+Code+%7C+Smart+Solutions&color=FF7F00;📚+Always+Learning+New+Things&color=FFFF00;💡+Building+Impactful+Projects&color=00FF00;⚡+Code.+Create.+Innovate.&color=0000FF;🔥+Leveling+Up+Every+Day&color=8B00FF)](https://git.io/typing-svg)
 
 ---
 
