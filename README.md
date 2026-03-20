@@ -1,11 +1,8 @@
-# Hi there, I'm Arsh 👋
-
 <div align="center">
 
 ### 👋 **Hi there, I'm Arsh!**
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=26&pause=1000&color=6E40C9&center=true&vCenter=true&width=600&lines=🚀+Full+Stack+Developer;✨+Clean+Code+%7C+Smart+Solutions;📚+Always+Learning+New+Things;💡+Building+Impactful+Projects)](https://git.io/typing-svg)
-
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=28&pause=800&color=00F7FF&center=true&vCenter=true&width=650&lines=🚀+Full+Stack+Developer;✨+Clean+Code+%7C+Smart+Solutions;📚+Always+Learning+New+Things;💡+Building+Impactful+Projects)](https://git.io/typing-svg)
 ---
 
 **_Passionate about building scalable apps, solving real-world problems, and continuously improving my craft._**
