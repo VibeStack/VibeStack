@@ -30,7 +30,6 @@
 - 🤖 Diving deep into **AI/ML** — exploring intelligent systems
 - 💡 I love turning **complex problems** into **clean, scalable solutions**
 - 📚 Always learning something new every single day
-- ⚡ Fun fact: I debug with `console.log` and I'm not ashamed of it 😄
 
 ---
 
